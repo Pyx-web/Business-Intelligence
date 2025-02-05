@@ -33,8 +33,3 @@ Die Anwendung bietet eine umfassende Unterstützung für Gründer und Unternehme
 - **pip install -r requirements.txt
 - **in der Services.py die API Keys einfügen
 - **python app.py
-
-1. **Projekt klonen:**  
-   ```bash
-   git clone https://github.com/dein-repository.git
-   cd dein-repository
