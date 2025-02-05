@@ -1,0 +1,5 @@
+Flask
+cohere
+beautifulsoup4
+numpy
+requests
